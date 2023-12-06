@@ -1,0 +1,8 @@
+fastapi==0.61.0
+uvicorn==0.14.0
+requests==2.24.0
+asgi-lifespan==1.0.1
+python-dateutil==2.8.1
+httpx==0.18.2
+aioredis==2.0.0
+
